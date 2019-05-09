@@ -6,6 +6,7 @@ This Learning Path focuses on core Kubernetes constructs, such as pods, services
 By the end of this Learning Path, you'll know everything you need to graduate from intermediate to advanced level of understanding Kubernetes.
 
 This Learning Path includes content from the following Packt products:
+
 Getting Started with Kubernetes - Third Edition by Jonathan Baier and Jesse White
 Mastering Kubernetes - Second Edition by Gigi Sayfan
 <br>
