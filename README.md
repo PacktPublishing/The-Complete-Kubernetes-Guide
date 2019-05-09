@@ -1,21 +1,25 @@
-# Advanced Machine Learning with R
-R is one of the most popular languages when it comes to exploring the mathematical side of machine learning and easily performing computational statistics. 
+# The-Complete-Kubernetes-Guide
+If you are running more containers or want automated management of your containers, you need Kubernetes at your disposal. 
 
-This Learning Path shows you how to leverage the R ecosystem to build efficient machine learning applications that carry out intelligent tasks within your organization. Starting with building powerful machine learning models with ensembles to predict employee attrition, you’ll explore different clustering techniques to segment customers using wholesale data and use TensorFlow and Keras-R for performing advanced computations. Each chapter will help you implement advanced machine learning algorithms using real-world examples. You’ll also be introduced to reinforcement learning along with its various use cases and models. Towards the concluding chapters, the book provides you with a glimpse into how some of these black-box models can be diagnosed and understood. 
+This Learning Path focuses on core Kubernetes constructs, such as pods, services, replica sets, replication controllers, and labels. You'll learn to integrate your build pipeline and deployments in a Kubernetes cluster. As you move ahead in the Learning Path, you'll orchestrate updates behind the scenes, avoid downtime on your cluster, and deal with underlying cloud provider instability in your cluster. Using real-world use cases, you'll explore the options for network configuration, and understand how to set up, operate, and troubleshoot various Kubernetes networking plugins. In addition to this, you'll also get to grips with custom resource development and utilization in automation and maintenance workflows.
 
-By the end of this Learning Path, you’ll be equipped with the skills you need to deploy machine learning techniques in your own projects
+By the end of this Learning Path, you'll know everything you need to graduate from intermediate to advanced level of understanding Kubernetes.
+
+This Learning Path includes content from the following Packt products:
+Getting Started with Kubernetes - Third Edition by Jonathan Baier and Jesse White
+Mastering Kubernetes - Second Edition by Gigi Sayfan
 <br>
-# Advanced Machine Learning with R by **Cory Lesmeister and Dr. Sunil Kumar Chinnamgari**
+# The-Complete-Kubernetes-Guide by **Cory Lesmeister and Dr. Sunil Kumar Chinnamgari**
 
 ## What you will learn
-* Develop a joke recommendation engine to recommend jokes that match users’ tastes
-* Build autoencoders for credit card fraud detection
-* Work with image recognition and convolutional neural networks
-* Make predictions for casino slot machine using reinforcement learning
-* Implement Natural Language Processing (NLP) techniques for sentiment analysis and customer segmentation
-* Produce simple and effective data visualizations for improved insights
-* Use NLP to extract insights for text
-* Implement tree-based classifiers including random forest and boosted tree
+* Download, install, and configure the Kubernetes code base
+* Create and configure custom Kubernetes resources 
+* Use third-party resources in your automation workflows
+* Deliver applications as standard packages
+* Set up and access monitoring and logging for Kubernetes clusters
+* Set up external access to applications running in the cluster
+* Manage and scale Kubernetes with hosted platforms on AWS, Azure, and GCP
+* Run multiple clusters and manage them from a single control plane
 
 ### PC
 * Windows 7 or newer (32 or 64 bit)
