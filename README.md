@@ -14,7 +14,7 @@ This Learning Path includes content from the following Packt products:<br>
 Getting Started with Kubernetes - Third Edition by Jonathan Baier and Jesse White<br>
 Mastering Kubernetes - Second Edition by Gigi Sayfan
 <br>
-# The Complete Kubernetes Guide by **Jonathan Baier, Gigi Sayfan, and Jesse White**
+**The Complete Kubernetes Guide by Jonathan Baier, Gigi Sayfan, and Jesse White**
 
 ## What you will learn
 * Download, install, and configure the Kubernetes code base
