@@ -1,4 +1,9 @@
-# The-Complete-Kubernetes-Guide
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/The-Complete-Kubernetes-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Kubernetes-Guide/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/The-Complete-Kubernetes-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Kubernetes-Guide/network)
+[![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/The-Complete-Kubernetes-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Kubernetes-Guide/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktPublishing/The-Complete-Kubernetes-Guide/pulls)
+
+# The Complete Kubernetes Guide
 If you are running more containers or want automated management of your containers, you need Kubernetes at your disposal. 
 
 This Learning Path focuses on core Kubernetes constructs, such as pods, services, replica sets, replication controllers, and labels. You'll learn to integrate your build pipeline and deployments in a Kubernetes cluster. As you move ahead in the Learning Path, you'll orchestrate updates behind the scenes, avoid downtime on your cluster, and deal with underlying cloud provider instability in your cluster. Using real-world use cases, you'll explore the options for network configuration, and understand how to set up, operate, and troubleshoot various Kubernetes networking plugins. In addition to this, you'll also get to grips with custom resource development and utilization in automation and maintenance workflows.
@@ -9,7 +14,7 @@ This Learning Path includes content from the following Packt products:<br>
 Getting Started with Kubernetes - Third Edition by Jonathan Baier and Jesse White<br>
 Mastering Kubernetes - Second Edition by Gigi Sayfan
 <br>
-# The-Complete-Kubernetes-Guide by **Jonathan Baier, Gigi Sayfan, and Jesse White**
+# The Complete Kubernetes Guide by **Jonathan Baier, Gigi Sayfan, and Jesse White**
 
 ## What you will learn
 * Download, install, and configure the Kubernetes code base
